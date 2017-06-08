@@ -8,8 +8,5 @@ nidienidienidie
 hohohoho
 lalalla
 hhhhhhhhhhh
-<<<<<<< HEAD
 ggggggggg
-=======
-ggggggggg
->>>>>>> wpp
+
