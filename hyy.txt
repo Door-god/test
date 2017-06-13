@@ -9,9 +9,6 @@ hohohoho
 lalalla
 hhhhhhhhhhh
 ggggggggg
-<<<<<<< Updated upstream
-jjjjjjjjjjjjjjjjjj
-=======
-qqqqqqqqqqqq
 
->>>>>>> Stashed changes
+jjjjjjjjjjjjjjjjjj
+
